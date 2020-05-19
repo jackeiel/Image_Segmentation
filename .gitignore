@@ -1,0 +1,9 @@
+*.ipynb_checkpoints
+
+*.pdf
+
+*.pptx
+
+*.DS_Store
+
+*.docx
